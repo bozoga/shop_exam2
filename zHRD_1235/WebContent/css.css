@@ -1,0 +1,45 @@
+header{
+	background-color: #0080ff;
+	color: white;
+	text-align: center;
+	padding :20px;
+	font-size: 30px;
+}
+
+
+nav{
+	background-color: #8080ff;
+	color: white;
+	padding :10px;
+}
+
+nav a{
+	padding : 0 20px;
+}
+
+section{
+	height: 650px;
+	background-color: #c0c0c0;
+}
+
+footer{
+	background-color: #0080ff;
+		color: white;
+	text-align: center;
+	padding :20px;
+	
+}
+
+.cc{
+	padding:20px;
+	text-align: center;
+	margin: 0;
+}
+table{
+	text-align: center;
+	margin-left: auto; margin-right: auto;
+}
+
+nav a {color:white; text-decoration:none;}
+section a{color:black; text-decoration:none;}
+
